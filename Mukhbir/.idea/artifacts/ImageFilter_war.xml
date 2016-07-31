@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImageFilter:war">
+    <output-path>$PROJECT_DIR$/../ImageFilter/target</output-path>
+    <root id="archive" name="ImageFilter.war">
+      <element id="artifact" artifact-name="ImageFilter:war exploded" />
+    </root>
+  </artifact>
+</component>

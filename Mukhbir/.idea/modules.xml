@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/ImageModifier/ImageFilter/ImageFilter.iml" filepath="$USER_HOME$/Desktop/ImageModifier/ImageFilter/ImageFilter.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/ImageModifier/Mukhbir/Mukhbir.iml" filepath="$USER_HOME$/Desktop/ImageModifier/Mukhbir/Mukhbir.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/ImageModifier/Mukhbir2/Mukhbir2.iml" filepath="$USER_HOME$/Desktop/ImageModifier/Mukhbir2/Mukhbir2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Eclipse-Workspace-AWS/ImageFilters/Spring4MVCFileUploadCommonsExample.iml" filepath="$USER_HOME$/Desktop/Eclipse-Workspace-AWS/ImageFilters/Spring4MVCFileUploadCommonsExample.iml" />
+    </modules>
+  </component>
+</project>
