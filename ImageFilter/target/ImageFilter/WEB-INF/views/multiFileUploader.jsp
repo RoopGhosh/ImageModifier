@@ -6,7 +6,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<title>Spring 4 MVC File Multi Upload Example</title>
-	<link href="<c:url value='/static/css/bootstrap.css' />"  rel="stylesheet" type="text/css"></link>
+	<link href="<c:url value='/static/css/bootstrap.css' />" rel="stylesheet" type="text/css"></link>
 	<link href="<c:url value='/static/css/app.css' />" rel="stylesheet" type="text/css"></link>
 </head>
 <body> 
